@@ -3,3 +3,4 @@
 repo to practice c++ 
 
 - iostream
+- memory & address

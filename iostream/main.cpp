@@ -6,9 +6,9 @@ using std::cout;
 //end  line
 using std::endl;
 
-int main() {
+int main()
+{
 
     cout << "Hello World" << endl;
     return 0;
-
 }
